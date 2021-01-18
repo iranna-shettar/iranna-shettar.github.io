@@ -1,8 +1,8 @@
 ---
 role: Asst. Librarian, NITK Surthkal
 avatar_filename: imshettar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Scientometrics, Digital Library Services,
+  Library Technology & Tools.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
