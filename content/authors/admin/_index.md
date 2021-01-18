@@ -29,9 +29,6 @@ organizations:
     url: https://www.nitk.ac.in/
 education:
   courses:
-    - course: PhD in Library & Information Science
-      institution: Karnatak University Dharwad
-      year: ""
     - course: M.Phil. in Library & Information Science
       institution: Annamalai University
       year: 2008
@@ -46,9 +43,8 @@ highlight_name: false
 title: Iranna M. Shettar
 email: ""
 ---
+**Iranna M. Shettar** currently working as Assistant Librarian in Periodical and eResources Section, Central Library, National Institute of Technology Karnataka, Surathkal. Prior to joining NITK Surathkal he has served as Information Analyst (Senior Executive) in Tata Consultancy Services, Mumbai; Information & Documentation Assistant (Ad-hoc) in Indira Gandhi Institute of Developmental Research, Mumbai.  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He leads the Research Supports Team in the Central Library NITK, which assists Faculty and Researchers in Literarute/ Database Access, Article Request, ILL, Plagiarism Detection Assistance, Grammarly access and attends other information related queries.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my  {{< staticref "media/demo_resume.pdf" "newtab" >}}brief CV{{< /staticref >}}.
