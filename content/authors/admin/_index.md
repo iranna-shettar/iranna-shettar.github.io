@@ -29,15 +29,18 @@ organizations:
     url: https://www.nitk.ac.in/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in LIS (Scientometrics)
+      institution: Karnatak University Dharwad
+      year: ""
+    - course: M.Phil. in Library & Information Science
+      institution: Annamalai University
       year: 2008
+    - course: Master of Library & Information Science
+      institution: Karnatak University Dharwad
+      year: 2005
+    - course: BSc in Computer Science
+      institution: Karnatak University Dharwad
+      year: 2003
 superuser: true
 highlight_name: false
 title: Iranna M. Shettar
