@@ -47,4 +47,6 @@ email: ""
 
 < j >He leads the Research Supports Team in the Central Library NITK, which assists Faculty and Researchers in Literarute/ Database Access, Article Request, ILL, Plagiarism Detection Assistance, Grammarly access and attends other information related queries.< /j >
 
+Currently persuing his PhD from Karnatak University Dharwad on "Scientometrics".
+
 {{< icon name="download" pack="fas" >}} Download my  {{< staticref "media/demo_resume.pdf" "newtab" >}}brief CV{{< /staticref >}}.
