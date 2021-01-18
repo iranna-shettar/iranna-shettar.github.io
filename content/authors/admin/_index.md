@@ -1,6 +1,6 @@
 ---
 role: Asst. Librarian, NITK Surthkal
-avatar_filename: imshettar.jpg
+avatar_filename: ""
 bio: My research interests include Scientometrics, Digital Library Services,
   Library Technology & Tools.
 interests:
