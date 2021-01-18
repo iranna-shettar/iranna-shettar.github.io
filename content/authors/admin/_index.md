@@ -29,6 +29,9 @@ organizations:
     url: https://www.nitk.ac.in/
 education:
   courses:
+    - course: PhD in Library and Information Science, 2018 - Present
+      institution: Karnatak University Dharwad
+      year: ""
     - course: M.Phil. in Library & Information Science
       institution: Annamalai University
       year: 2008
