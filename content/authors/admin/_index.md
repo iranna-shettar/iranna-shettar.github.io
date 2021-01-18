@@ -1,6 +1,6 @@
 ---
 role: Asst. Librarian, NITK Surthkal
-avatar_filename: ""
+avatar_filename: imshettar.jpg
 bio: My research interests include Scientometrics, Information Retrieval,
   Digital Library Services, Library Technology & Tools.
 interests:
@@ -19,7 +19,7 @@ social:
     icon_pack: fas
     link: https://scholar.google.co.in/citations?user=HwCFQU4AAAAJ&hl=en
   - icon: facebook
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.facebook.com/iranna.shettar
   - icon: linkedin
     icon_pack: fab
