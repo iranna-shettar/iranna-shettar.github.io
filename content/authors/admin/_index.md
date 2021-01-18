@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: National Institute of Technology Karnataka, Surathkal
+    url: https://www.nitk.ac.in/
 education:
   courses:
     - course: PhD in Artificial Intelligence
