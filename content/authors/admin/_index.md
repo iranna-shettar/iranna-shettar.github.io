@@ -29,7 +29,7 @@ organizations:
     url: https://www.nitk.ac.in/
 education:
   courses:
-    - course: PhD in LIS (Scientometrics)
+    - course: PhD in Library & Information Science
       institution: Karnatak University Dharwad
       year: ""
     - course: M.Phil. in Library & Information Science
