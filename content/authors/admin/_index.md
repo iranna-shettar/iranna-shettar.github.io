@@ -43,8 +43,8 @@ highlight_name: false
 title: Iranna M. Shettar
 email: ""
 ---
-<j>**Iranna M. Shettar** currently working as Assistant Librarian in Periodical and eResources Section, Central Library, National Institute of Technology Karnataka, Surathkal. Prior to joining NITK Surathkal he has served as Information Analyst (Senior Executive) in Tata Consultancy Services, Mumbai; Information & Documentation Assistant (Ad-hoc) in Indira Gandhi Institute of Developmental Research, Mumbai.</j>
+**Iranna M. Shettar** currently working as Assistant Librarian in Periodical and eResources Section, Central Library, National Institute of Technology Karnataka, Surathkal. Prior to joining NITK Surathkal he has served as Information Analyst (Senior Executive) in Tata Consultancy Services, Mumbai; Information & Documentation Assistant (Ad-hoc) in Indira Gandhi Institute of Developmental Research, Mumbai.
 
-{{<j>}}He leads the Research Supports Team in the Central Library NITK, which assists Faculty and Researchers in Literarute/ Database Access, Article Request, ILL, Plagiarism Detection Assistance, Grammarly access and attends other information related queries.{{</j>}}
+He leads the Research Supports Team in the Central Library NITK, which assists Faculty and Researchers in Literarute/ Database Access, Article Request, ILL, Plagiarism Detection Assistance, Grammarly access and attends other information related queries.
 
 {{< icon name="download" pack="fas" >}} Download my  {{< staticref "media/demo_resume.pdf" "newtab" >}}brief CV{{< /staticref >}}.
