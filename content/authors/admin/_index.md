@@ -1,12 +1,13 @@
 ---
 role: Asst. Librarian, NITK Surthkal
 avatar_filename: ""
-bio: My research interests include Scientometrics, Digital Library Services,
-  Library Technology & Tools.
+bio: My research interests include Scientometrics, Information Retrieval,
+  Digital Library Services, Library Technology & Tools.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Scientometrics
   - Information Retrieval
+  - Digital Library Services
+  - Library Technology & Tools
 social:
   - icon: envelope
     icon_pack: fas
